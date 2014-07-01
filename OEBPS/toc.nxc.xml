@@ -13,14 +13,20 @@
   	</docTitle>
   	
   	<navMap>
-  	
-  		<navPoint id="a_sommario" playorder="1">
   		
+  		<navPoint id="a_cover" playorder="1">  		
+  			<navLabel>
+  				<text>cover</text>
+  			</navLabel>  		
+  				<content src="a_cover.xhtml">  		  		
+  		</navPoint>
+  		
+  		
+  		<navPoint id="a_sommario" playorder="2"> 		
   			<navLabel>
   				<text>a_sommario</text>
   			</navLabel>  		
-  				<content src="a_sommario.xhtml">
-  		  		
+  				<content src="a_sommario.xhtml">  		  		
   		</navPoint>
   	
   	</navMap>
