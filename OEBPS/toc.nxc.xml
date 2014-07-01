@@ -14,12 +14,12 @@
   	
   	<navMap>
   	
-  		<navPoint id="" playorder="">
+  		<navPoint id="a_sommario" playorder="1">
   		
-  		<navLabel>
-  			<text>...</text>
-  		</navLabel>  		
-  		<content src="a-sommario.xhtml">
+  			<navLabel>
+  				<text>a_sommario</text>
+  			</navLabel>  		
+  				<content src="a_sommario.xhtml">
   		  		
   		</navPoint>
   	
